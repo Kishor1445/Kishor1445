@@ -3,9 +3,15 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/Instagram-blue?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
-  <img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
+  <a href="https://www.instagram.com/c0d3lin3/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/c0d3lin3/">
+    <img src="https://img.shields.io/badge/Instagram-blue?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kishor1445/">
+    <img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white&style=for-the-badge" alt="Discord Badge"/>
+  </a>
 </div>
 <!--
 **Kishor1445/Kishor1445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
