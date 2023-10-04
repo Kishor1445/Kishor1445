@@ -7,7 +7,6 @@
 class Student:
     def __init__(self, university):
         self.name = "Kishor Ramanan"
-        self.nick = "Vetri"
         self.dob = datetime(2005, 4, 14)
         self.age = math.floor((datetime.now() - self.dob).days/365)
         self.lang = ("Tamil", "English")
