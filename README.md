@@ -10,7 +10,7 @@ class Student:
         self.nick = "Vetri"
         self.dob = datetime(2005, 4, 14)
         self.age = math.floor((datetime.now() - self.dob).days/365)
-        self.lang = ("English", "Tamil")
+        self.lang = ("Tamil", "English")
         self.loc = "India"
         self.code_lang = ["Python", "C", "C++", "Java"]
         self.code_framework = ["OpenCV", "Flask", "FastAPI", "discord.py"]
