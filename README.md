@@ -22,7 +22,5 @@ if __name__ == "__main__":
     me = Student("Sathyabama University")
 ```
 ## Github Status
-<div>
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=kishor1445&theme=radical&title_color=054aed?">
-<img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=kishor1445&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=054aed">
-</div>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=kishor1445&theme=radical&hide_border=true&title_color=03f8fc&text_color=ffff00" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kishor1445&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=03F8FC&sideLabels=03F8FC&currStreakLabel=03F8FC&sideNums=FFFF00&dates=03F8FC&stroke=03F8FC&fire=FFFF00&currStreakNum=FFFF00" alt="GitHub Streak" />
