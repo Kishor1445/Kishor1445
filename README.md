@@ -26,5 +26,5 @@ if __name__ == "__main__":
     print(me)
 ```
 ## Github Status
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=kishor1445&theme=radical&hide_border=true&title_color=03f8fc&text_color=ffff00" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kishor1445&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=03F8FC&sideLabels=03F8FC&currStreakLabel=03F8FC&sideNums=FFFF00&dates=03F8FC&stroke=03F8FC&fire=FFFF00&currStreakNum=FFFF00" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-five-tan.vercel.app?user=kishor1445&theme=transparent&hide_border=true" alt="GitHub Streak" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=kishor1445&theme=transparent&hide_border=true" alt="GitHub Stats" />
